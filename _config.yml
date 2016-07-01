@@ -1,0 +1,40 @@
+# Built with Jekyll 3.2.0
+
+# Setup
+title:               Ο Προγραμματισμός της Διάδρασης
+tagline:             'Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό'
+description:         'Σε αυτήν την περιοχή μπορείτε να κάνετε σχόλια και διορθώσεις για το βιβλίο'
+url:                 'http://proof.pibook.gr'
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Konstantinos Chorianopoulos
+  url:               https://twitter.com/ep1dr0me
+  email:             hi@epidro.me
+
+# Permalinks
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Custom vars
+version:             1.0
+
+# Exclusions from the final site
+exclude: [optional, vendor]
