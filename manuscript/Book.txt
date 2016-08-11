@@ -1,7 +1,6 @@
 
 {frontmatter}
 
-pi-pre.md
 pi-intro.md
 
 {mainmatter}
