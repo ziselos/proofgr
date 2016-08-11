@@ -12,10 +12,10 @@ cs-star.md
 
 pi-ch02.md
 cs-windows.md
-cs-poet.md
+cs-mouse.md
 
 pi-ch03.md
-cs-mouse.md
+cs-poet.md
 cs-ipod.md
 
 pi-ch04.md
