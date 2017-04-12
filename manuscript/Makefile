@@ -25,9 +25,8 @@ ID = $(shell git rev-parse HEAD)
 # ID = $(shell hg id -i)
 TARGETDIR = build
 DRAFTOPTIONS = --variable lang=greek --variable fontsize=12pt -H draft.tex
-PDFOPTIONS = --latex-engine=xelatex --variable fontsize=11pt \
-             --variable documentclass=scrbook --variable lang=greek \
-             -H final.tex
+PDFOPTIONS = --latex-engine=xelatex --variable mainfont='DejaVu Serif' --variable fontsize=11pt --variable documentclass=scrbook --variable lang=gr -H final.tex
+
 EPUBOPTIONS =
 
 all: pdf epub fingerprint
