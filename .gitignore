@@ -3,3 +3,4 @@ venv
 print
 *.pdf
 *.html
+build
