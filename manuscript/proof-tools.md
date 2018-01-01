@@ -1,11 +1,9 @@
 ---
 permalink: /tools/
 title: Εργαλεία
-layout: page
+layout: chapter
 chapter: 4
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-ch04.md %}
 

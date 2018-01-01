@@ -1,11 +1,9 @@
 ---
 permalink: /definition/
 title: Ορισμός
-layout: page
+layout: chapter
 chapter: 1
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-ch01.md %}
 

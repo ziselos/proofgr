@@ -1,10 +1,9 @@
 ---
 permalink: /intro/
 title: Εισαγωγή
-layout: page
+layout: chapter
 chapter: 0.2
 ---
 
-{% include toc.html %}
 
 {% include_relative pi-intro.md %}

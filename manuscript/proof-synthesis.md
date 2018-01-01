@@ -1,11 +1,9 @@
 ---
 permalink: /synthesis/
 title: Σύνθεση
-layout: page
+layout: chapter
 chapter: 6
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-ch06.md %}
 

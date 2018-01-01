@@ -13,13 +13,24 @@ author:
   url:               https://twitter.com/ep1dr0me
   email:             hi@epidro.me
 
-# Permalinks
+# Remote theme
+remote_theme: "minicomp/ed"
 
+# Plugins
+plugins:
+  - jekyll-remote-theme
+
+# Permalinks
 permalink: pretty
 permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
 
 # Markdown specs
 markdown: kramdown

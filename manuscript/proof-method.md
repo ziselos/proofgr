@@ -1,11 +1,9 @@
 ---
 permalink: /method/
 title: Μέθοδος
-layout: page
+layout: chapter
 chapter: 2
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-ch02.md %}
 

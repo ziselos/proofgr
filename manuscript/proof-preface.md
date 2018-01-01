@@ -1,10 +1,8 @@
 ---
 permalink: /preface/
 title: Πρόλογος
-layout: page
+layout: chapter
 chapter: 0.1
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-pre.md %}

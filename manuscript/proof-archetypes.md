@@ -1,11 +1,9 @@
 ---
 permalink: /archetypes/
 title: Αρχέτυπα
-layout: page
+layout: chapter
 chapter: 3
 ---
-
-{% include toc.html %}
 
 {% include_relative pi-ch03.md %}
 
