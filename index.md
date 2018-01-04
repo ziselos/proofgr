@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Ed."
+title: "Ο Προγραμματισμς της Διάδρασης"
 ---
-<div class="introduction">
 
 <p>Σε αυτήν την περιοχή μπορείτε να κάνετε <a href="https://via.hypothes.is/{{ site.url }}{{ site.baseurl }}{{ page.url }}">σχόλια</a> και <a href="https://github.com/pibook/proofgr" target="_blank">διορθώσεις</a> για το βιβλίο. Το βιβλίο είναι <a href="http://www.pibook.gr/buy/">διαθέσιμο για αγορά σε πολλές διαφορετικές μορφές</a> και συνοδεύεται από <a href="http://www.pibook.gr">οδηγίες και υλικό για την διδακτική εφαρμογή</a>.
 
-</div>
 
 <hr>
 
